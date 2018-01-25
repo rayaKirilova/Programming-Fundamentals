@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\bin\Debug\Passed.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\bin\Debug\Passed.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\bin\Debug\Passed.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\obj\Debug\Passed.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\obj\Debug\Passed.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\obj\Debug\Passed.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Passed\obj\Debug\Passed.pdb

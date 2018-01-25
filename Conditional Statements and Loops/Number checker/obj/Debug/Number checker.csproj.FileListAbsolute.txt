@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Number checker\bin\Debug\Number checker.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Number checker\bin\Debug\Number checker.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Number checker\bin\Debug\Number checker.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Number checker\obj\Debug\Number checker.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Number checker\obj\Debug\Number checker.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Number checker\obj\Debug\Number checker.pdb

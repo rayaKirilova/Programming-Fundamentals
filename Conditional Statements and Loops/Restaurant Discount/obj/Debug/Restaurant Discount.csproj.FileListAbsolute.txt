@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Restaurant Discount\bin\Debug\Restaurant Discount.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Restaurant Discount\bin\Debug\Restaurant Discount.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Restaurant Discount\bin\Debug\Restaurant Discount.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Restaurant Discount\obj\Debug\Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Restaurant Discount\obj\Debug\Restaurant Discount.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Restaurant Discount\obj\Debug\Restaurant Discount.pdb

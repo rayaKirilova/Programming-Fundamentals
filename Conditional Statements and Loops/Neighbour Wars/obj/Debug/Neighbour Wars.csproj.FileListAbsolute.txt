@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Neighbour Wars\bin\Debug\Neighbour Wars.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Neighbour Wars\bin\Debug\Neighbour Wars.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Neighbour Wars\obj\Debug\Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Neighbour Wars\obj\Debug\Neighbour Wars.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Neighbour Wars\obj\Debug\Neighbour Wars.pdb

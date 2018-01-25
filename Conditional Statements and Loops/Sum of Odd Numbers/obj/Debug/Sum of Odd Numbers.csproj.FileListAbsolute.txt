@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Sum of Odd Numbers\bin\Debug\Sum of Odd Numbers.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Sum of Odd Numbers\obj\Debug\Sum of Odd Numbers.pdb

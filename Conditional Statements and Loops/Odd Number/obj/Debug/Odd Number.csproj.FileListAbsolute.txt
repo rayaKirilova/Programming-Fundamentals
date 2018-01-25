@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Odd Number\bin\Debug\Odd Number.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Odd Number\bin\Debug\Odd Number.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Odd Number\bin\Debug\Odd Number.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Odd Number\obj\Debug\Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Odd Number\obj\Debug\Odd Number.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Odd Number\obj\Debug\Odd Number.pdb
