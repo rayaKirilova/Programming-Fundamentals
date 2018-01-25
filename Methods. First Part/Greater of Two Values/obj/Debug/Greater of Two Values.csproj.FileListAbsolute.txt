@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+C:\Users\Raya\source\repos\Methods\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+C:\Users\Raya\source\repos\Methods\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+C:\Users\Raya\source\repos\Methods\Greater of Two Values\obj\Debug\Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+C:\Users\Raya\source\repos\Methods\Greater of Two Values\obj\Debug\Greater of Two Values.pdb

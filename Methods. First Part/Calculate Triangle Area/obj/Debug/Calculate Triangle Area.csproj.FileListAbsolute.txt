@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
+C:\Users\Raya\source\repos\Methods\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
+C:\Users\Raya\source\repos\Methods\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
+C:\Users\Raya\source\repos\Methods\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
+C:\Users\Raya\source\repos\Methods\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

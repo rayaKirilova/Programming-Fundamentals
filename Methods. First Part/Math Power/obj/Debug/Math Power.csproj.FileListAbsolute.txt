@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods\Math Power\bin\Debug\Math Power.exe.config
+C:\Users\Raya\source\repos\Methods\Math Power\bin\Debug\Math Power.exe
+C:\Users\Raya\source\repos\Methods\Math Power\bin\Debug\Math Power.pdb
+C:\Users\Raya\source\repos\Methods\Math Power\obj\Debug\Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods\Math Power\obj\Debug\Math Power.exe
+C:\Users\Raya\source\repos\Methods\Math Power\obj\Debug\Math Power.pdb
