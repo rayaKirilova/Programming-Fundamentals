@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Beer Kegs\bin\Debug\Beer Kegs.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Beer Kegs\bin\Debug\Beer Kegs.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Beer Kegs\bin\Debug\Beer Kegs.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Beer Kegs\obj\Debug\Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Beer Kegs\obj\Debug\Beer Kegs.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Beer Kegs\obj\Debug\Beer Kegs.pdb

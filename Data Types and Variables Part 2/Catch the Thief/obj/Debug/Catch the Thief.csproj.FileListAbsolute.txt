@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Catch the Thief\bin\Debug\Catch the Thief.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Catch the Thief\bin\Debug\Catch the Thief.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Catch the Thief\bin\Debug\Catch the Thief.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Catch the Thief\obj\Debug\Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Catch the Thief\obj\Debug\Catch the Thief.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Catch the Thief\obj\Debug\Catch the Thief.pdb
