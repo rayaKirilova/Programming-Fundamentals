@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.pdb

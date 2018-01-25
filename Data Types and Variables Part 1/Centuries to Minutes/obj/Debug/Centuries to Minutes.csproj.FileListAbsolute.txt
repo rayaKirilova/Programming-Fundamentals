@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\bin\Debug\Centuries to Minutes.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\bin\Debug\Centuries to Minutes.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\bin\Debug\Centuries to Minutes.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\obj\Debug\Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\obj\Debug\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\obj\Debug\Centuries to Minutes.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Minutes\obj\Debug\Centuries to Minutes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Rectangle Properties\obj\Debug\Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Rectangle Properties\obj\Debug\Rectangle Properties.pdb

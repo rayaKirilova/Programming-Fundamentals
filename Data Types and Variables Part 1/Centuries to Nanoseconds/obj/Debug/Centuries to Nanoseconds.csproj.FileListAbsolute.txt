@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.pdb
