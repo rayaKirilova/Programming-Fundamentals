@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe.config
+C:\Users\Raya\source\repos\Methods\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.exe
+C:\Users\Raya\source\repos\Methods\Multiply Evens by Odds\bin\Debug\Multiply Evens by Odds.pdb
+C:\Users\Raya\source\repos\Methods\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.exe
+C:\Users\Raya\source\repos\Methods\Multiply Evens by Odds\obj\Debug\Multiply Evens by Odds.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods\Sign Of Integer Number\bin\Debug\Sign Of Integer Number.exe.config
+C:\Users\Raya\source\repos\Methods\Sign Of Integer Number\bin\Debug\Sign Of Integer Number.exe
+C:\Users\Raya\source\repos\Methods\Sign Of Integer Number\bin\Debug\Sign Of Integer Number.pdb
+C:\Users\Raya\source\repos\Methods\Sign Of Integer Number\obj\Debug\Sign Of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods\Sign Of Integer Number\obj\Debug\Sign Of Integer Number.exe
+C:\Users\Raya\source\repos\Methods\Sign Of Integer Number\obj\Debug\Sign Of Integer Number.pdb

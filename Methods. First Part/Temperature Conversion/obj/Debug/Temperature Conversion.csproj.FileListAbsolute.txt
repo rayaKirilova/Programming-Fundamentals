@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods\Temperature Conversion\bin\Debug\Temperature Conversion.exe.config
+C:\Users\Raya\source\repos\Methods\Temperature Conversion\bin\Debug\Temperature Conversion.exe
+C:\Users\Raya\source\repos\Methods\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
+C:\Users\Raya\source\repos\Methods\Temperature Conversion\obj\Debug\Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods\Temperature Conversion\obj\Debug\Temperature Conversion.exe
+C:\Users\Raya\source\repos\Methods\Temperature Conversion\obj\Debug\Temperature Conversion.pdb
