@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\House Builder\bin\Debug\House Builder.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\House Builder\bin\Debug\House Builder.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\House Builder\bin\Debug\House Builder.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\House Builder\obj\Debug\House Builder.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\House Builder\obj\Debug\House Builder.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\House Builder\obj\Debug\House Builder.pdb

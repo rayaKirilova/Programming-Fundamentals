@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Tourist Information\bin\Debug\Tourist Information.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Tourist Information\bin\Debug\Tourist Information.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Tourist Information\bin\Debug\Tourist Information.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Tourist Information\obj\Debug\Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Tourist Information\obj\Debug\Tourist Information.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Tourist Information\obj\Debug\Tourist Information.pdb

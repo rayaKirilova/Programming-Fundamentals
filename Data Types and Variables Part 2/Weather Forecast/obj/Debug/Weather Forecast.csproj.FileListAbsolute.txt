@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Weather Forecast\bin\Debug\Weather Forecast.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Weather Forecast\bin\Debug\Weather Forecast.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Weather Forecast\bin\Debug\Weather Forecast.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Weather Forecast\obj\Debug\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Weather Forecast\obj\Debug\Weather Forecast.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Weather Forecast\obj\Debug\Weather Forecast.pdb

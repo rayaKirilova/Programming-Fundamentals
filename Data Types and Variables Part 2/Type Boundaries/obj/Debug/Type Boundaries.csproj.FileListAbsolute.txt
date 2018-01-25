@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\bin\Debug\Type Boundaries.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\bin\Debug\Type Boundaries.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\bin\Debug\Type Boundaries.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\obj\Debug\Type Boundaries.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\obj\Debug\Type Boundaries.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\obj\Debug\Type Boundaries.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Type Boundaries\obj\Debug\Type Boundaries.pdb

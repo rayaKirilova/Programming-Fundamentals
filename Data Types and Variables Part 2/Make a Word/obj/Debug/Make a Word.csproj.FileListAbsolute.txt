@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Make a Word\bin\Debug\Make a Word.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Make a Word\bin\Debug\Make a Word.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Make a Word\bin\Debug\Make a Word.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Make a Word\obj\Debug\Make a Word.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Make a Word\obj\Debug\Make a Word.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\Make a Word\obj\Debug\Make a Word.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\String Concatenation\bin\Debug\String Concatenation.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\String Concatenation\bin\Debug\String Concatenation.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\String Concatenation\bin\Debug\String Concatenation.pdb
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\String Concatenation\obj\Debug\String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\String Concatenation\obj\Debug\String Concatenation.exe
+C:\Users\Raya\source\repos\Data Types and Variables Part 2\String Concatenation\obj\Debug\String Concatenation.pdb
