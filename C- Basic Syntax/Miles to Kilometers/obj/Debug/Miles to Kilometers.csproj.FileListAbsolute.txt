@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.pdb

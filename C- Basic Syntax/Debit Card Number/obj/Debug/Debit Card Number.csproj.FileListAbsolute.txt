@@ -1,0 +1,7 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\bin\Debug\Debit Card Number.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\bin\Debug\Debit Card Number.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.csprojResolveAssemblyReference.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.pdb

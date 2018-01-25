@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Rectangle Area\bin\Debug\Rectangle Area.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Rectangle Area\bin\Debug\Rectangle Area.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Rectangle Area\obj\Debug\Rectangle Area.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Rectangle Area\obj\Debug\Rectangle Area.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Rectangle Area\obj\Debug\Rectangle Area.pdb

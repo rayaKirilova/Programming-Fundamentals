@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Photo Gallery\bin\Debug\Photo Gallery.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Photo Gallery\bin\Debug\Photo Gallery.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Photo Gallery\bin\Debug\Photo Gallery.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Photo Gallery\obj\Debug\Photo Gallery.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Photo Gallery\obj\Debug\Photo Gallery.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Photo Gallery\obj\Debug\Photo Gallery.pdb

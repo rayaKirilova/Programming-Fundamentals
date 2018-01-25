@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\DNA Sequences\bin\Debug\DNA Sequences.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\DNA Sequences\bin\Debug\DNA Sequences.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\DNA Sequences\bin\Debug\DNA Sequences.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\DNA Sequences\obj\Debug\DNA Sequences.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\DNA Sequences\obj\Debug\DNA Sequences.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\DNA Sequences\obj\Debug\DNA Sequences.pdb

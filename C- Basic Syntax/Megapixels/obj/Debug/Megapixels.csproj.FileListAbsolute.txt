@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Megapixels\bin\Debug\Megapixels.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Megapixels\bin\Debug\Megapixels.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Megapixels\bin\Debug\Megapixels.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Megapixels\obj\Debug\Megapixels.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Megapixels\obj\Debug\Megapixels.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Megapixels\obj\Debug\Megapixels.pdb

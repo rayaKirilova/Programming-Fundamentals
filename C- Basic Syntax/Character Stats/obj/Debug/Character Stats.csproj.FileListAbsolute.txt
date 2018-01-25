@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Character Stats\bin\Debug\Character Stats.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Character Stats\bin\Debug\Character Stats.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Character Stats\bin\Debug\Character Stats.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Character Stats\obj\Debug\Character Stats.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Character Stats\obj\Debug\Character Stats.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Character Stats\obj\Debug\Character Stats.pdb

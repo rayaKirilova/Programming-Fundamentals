@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\BPM Counter\bin\Debug\BPM Counter.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\BPM Counter\bin\Debug\BPM Counter.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\BPM Counter\bin\Debug\BPM Counter.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\BPM Counter\obj\Debug\BPM Counter.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\BPM Counter\obj\Debug\BPM Counter.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\BPM Counter\obj\Debug\BPM Counter.pdb
