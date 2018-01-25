@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Choose a Drink\bin\Debug\Choose a Drink.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Choose a Drink\bin\Debug\Choose a Drink.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Choose a Drink\bin\Debug\Choose a Drink.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Choose a Drink\obj\Debug\Choose a Drink.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Choose a Drink\obj\Debug\Choose a Drink.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Choose a Drink\obj\Debug\Choose a Drink.pdb

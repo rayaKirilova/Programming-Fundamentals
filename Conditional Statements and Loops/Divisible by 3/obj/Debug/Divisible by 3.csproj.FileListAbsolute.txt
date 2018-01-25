@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Divisible by 3\bin\Debug\Divisible by 3.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Divisible by 3\bin\Debug\Divisible by 3.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Divisible by 3\bin\Debug\Divisible by 3.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Divisible by 3\obj\Debug\Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Divisible by 3\obj\Debug\Divisible by 3.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Divisible by 3\obj\Debug\Divisible by 3.pdb

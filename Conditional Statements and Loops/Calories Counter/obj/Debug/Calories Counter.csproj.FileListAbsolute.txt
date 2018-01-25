@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Calories Counter\bin\Debug\Calories Counter.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Calories Counter\bin\Debug\Calories Counter.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Calories Counter\bin\Debug\Calories Counter.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Calories Counter\obj\Debug\Calories Counter.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Calories Counter\obj\Debug\Calories Counter.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Calories Counter\obj\Debug\Calories Counter.pdb

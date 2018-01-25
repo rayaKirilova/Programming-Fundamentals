@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Game of Numbers\bin\Debug\Game of Numbers.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Game of Numbers\bin\Debug\Game of Numbers.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Game of Numbers\bin\Debug\Game of Numbers.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Game of Numbers\obj\Debug\Game of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Game of Numbers\obj\Debug\Game of Numbers.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Game of Numbers\obj\Debug\Game of Numbers.pdb
