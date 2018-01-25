@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Theatre Promotions\bin\Debug\Theatre Promotions.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Theatre Promotions\bin\Debug\Theatre Promotions.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Theatre Promotions\bin\Debug\Theatre Promotions.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Theatre Promotions\obj\Debug\Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Theatre Promotions\obj\Debug\Theatre Promotions.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Theatre Promotions\obj\Debug\Theatre Promotions.pdb

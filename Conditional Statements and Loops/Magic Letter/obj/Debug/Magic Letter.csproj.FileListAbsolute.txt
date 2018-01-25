@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Magic Letter\bin\Debug\Magic Letter.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Magic Letter\bin\Debug\Magic Letter.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Magic Letter\bin\Debug\Magic Letter.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Magic Letter\obj\Debug\Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Magic Letter\obj\Debug\Magic Letter.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Magic Letter\obj\Debug\Magic Letter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Hotel\bin\Debug\Hotel.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Hotel\obj\Debug\Hotel.exe
+C:\Users\Raya\source\repos\Conditional Statements and Loops in CSharp\Hotel\obj\Debug\Hotel.pdb
