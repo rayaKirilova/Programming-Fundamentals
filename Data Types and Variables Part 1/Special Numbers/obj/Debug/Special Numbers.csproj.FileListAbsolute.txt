@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Special Numbers\bin\Debug\Special Numbers.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Special Numbers\bin\Debug\Special Numbers.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Special Numbers\bin\Debug\Special Numbers.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Special Numbers\obj\Debug\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Special Numbers\obj\Debug\Special Numbers.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Special Numbers\obj\Debug\Special Numbers.pdb

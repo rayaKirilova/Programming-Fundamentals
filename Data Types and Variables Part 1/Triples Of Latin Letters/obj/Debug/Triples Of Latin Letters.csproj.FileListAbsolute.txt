@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Triples Of Latin Letters\bin\Debug\Triples Of Latin Letters.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Triples Of Latin Letters\bin\Debug\Triples Of Latin Letters.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Triples Of Latin Letters\bin\Debug\Triples Of Latin Letters.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Triples Of Latin Letters\obj\Debug\Triples Of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Triples Of Latin Letters\obj\Debug\Triples Of Latin Letters.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Triples Of Latin Letters\obj\Debug\Triples Of Latin Letters.pdb

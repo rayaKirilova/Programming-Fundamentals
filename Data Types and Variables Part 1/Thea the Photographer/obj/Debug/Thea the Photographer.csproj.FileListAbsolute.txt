@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Thea the Photographer\bin\Debug\Thea the Photographer.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Thea the Photographer\bin\Debug\Thea the Photographer.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Thea the Photographer\bin\Debug\Thea the Photographer.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Thea the Photographer\obj\Debug\Thea the Photographer.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Thea the Photographer\obj\Debug\Thea the Photographer.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Thea the Photographer\obj\Debug\Thea the Photographer.pdb

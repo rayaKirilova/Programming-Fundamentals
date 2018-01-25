@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Refactor Volume of Pyramid\bin\Debug\Refactor Volume of Pyramid.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Refactor Volume of Pyramid\obj\Debug\Refactor Volume of Pyramid.pdb
