@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\CSharp Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+c:\users\raya\source\repos\CSharp Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.pdb
+c:\users\raya\source\repos\CSharp Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\CSharp Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.exe
+c:\users\raya\source\repos\CSharp Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.pdb
