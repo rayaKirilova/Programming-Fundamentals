@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Data Types and Variables\Different Integers Size\bin\Debug\Different Integers Size.exe.config
+C:\Users\Raya\source\repos\Data Types and Variables\Different Integers Size\bin\Debug\Different Integers Size.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Different Integers Size\bin\Debug\Different Integers Size.pdb
+C:\Users\Raya\source\repos\Data Types and Variables\Different Integers Size\obj\Debug\Different Integers Size.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Data Types and Variables\Different Integers Size\obj\Debug\Different Integers Size.exe
+C:\Users\Raya\source\repos\Data Types and Variables\Different Integers Size\obj\Debug\Different Integers Size.pdb
