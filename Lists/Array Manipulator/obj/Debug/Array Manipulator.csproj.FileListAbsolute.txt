@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Array Manipulator\bin\Debug\Array Manipulator.exe.config
+C:\Users\Raya\source\repos\Lists\Array Manipulator\bin\Debug\Array Manipulator.exe
+C:\Users\Raya\source\repos\Lists\Array Manipulator\bin\Debug\Array Manipulator.pdb
+C:\Users\Raya\source\repos\Lists\Array Manipulator\obj\Debug\Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Array Manipulator\obj\Debug\Array Manipulator.exe
+C:\Users\Raya\source\repos\Lists\Array Manipulator\obj\Debug\Array Manipulator.pdb

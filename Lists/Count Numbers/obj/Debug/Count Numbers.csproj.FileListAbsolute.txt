@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Count Numbers\bin\Debug\Count Numbers.exe.config
+C:\Users\Raya\source\repos\Lists\Count Numbers\bin\Debug\Count Numbers.exe
+C:\Users\Raya\source\repos\Lists\Count Numbers\bin\Debug\Count Numbers.pdb
+C:\Users\Raya\source\repos\Lists\Count Numbers\obj\Debug\Count Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Count Numbers\obj\Debug\Count Numbers.exe
+C:\Users\Raya\source\repos\Lists\Count Numbers\obj\Debug\Count Numbers.pdb

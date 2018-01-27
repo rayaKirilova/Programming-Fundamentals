@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Append Lists\obj\Debug\Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Append Lists\bin\Debug\Append Lists.exe.config
+C:\Users\Raya\source\repos\Lists\Append Lists\bin\Debug\Append Lists.exe
+C:\Users\Raya\source\repos\Lists\Append Lists\bin\Debug\Append Lists.pdb
+C:\Users\Raya\source\repos\Lists\Append Lists\obj\Debug\Append Lists.exe
+C:\Users\Raya\source\repos\Lists\Append Lists\obj\Debug\Append Lists.pdb

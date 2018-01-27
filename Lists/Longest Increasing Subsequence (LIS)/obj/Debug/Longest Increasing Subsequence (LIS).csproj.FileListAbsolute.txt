@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Longest Increasing Subsequence (LIS)\bin\Debug\Longest Increasing Subsequence (LIS).exe.config
+C:\Users\Raya\source\repos\Lists\Longest Increasing Subsequence (LIS)\bin\Debug\Longest Increasing Subsequence (LIS).exe
+C:\Users\Raya\source\repos\Lists\Longest Increasing Subsequence (LIS)\bin\Debug\Longest Increasing Subsequence (LIS).pdb
+C:\Users\Raya\source\repos\Lists\Longest Increasing Subsequence (LIS)\obj\Debug\Longest Increasing Subsequence (LIS).csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Longest Increasing Subsequence (LIS)\obj\Debug\Longest Increasing Subsequence (LIS).exe
+C:\Users\Raya\source\repos\Lists\Longest Increasing Subsequence (LIS)\obj\Debug\Longest Increasing Subsequence (LIS).pdb
