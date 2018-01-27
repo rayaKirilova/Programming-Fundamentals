@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\User Logs\bin\Debug\User Logs.exe.config
+C:\Users\Raya\source\repos\Dictionaries\User Logs\bin\Debug\User Logs.exe
+C:\Users\Raya\source\repos\Dictionaries\User Logs\bin\Debug\User Logs.pdb
+C:\Users\Raya\source\repos\Dictionaries\User Logs\obj\Debug\User Logs.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\User Logs\obj\Debug\User Logs.exe
+C:\Users\Raya\source\repos\Dictionaries\User Logs\obj\Debug\User Logs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Sum, Min, Max, Average\bin\Debug\Sum, Min, Max, Average.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Sum, Min, Max, Average\bin\Debug\Sum, Min, Max, Average.exe
+C:\Users\Raya\source\repos\Dictionaries\Sum, Min, Max, Average\bin\Debug\Sum, Min, Max, Average.pdb
+C:\Users\Raya\source\repos\Dictionaries\Sum, Min, Max, Average\obj\Debug\Sum, Min, Max, Average.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Sum, Min, Max, Average\obj\Debug\Sum, Min, Max, Average.exe
+C:\Users\Raya\source\repos\Dictionaries\Sum, Min, Max, Average\obj\Debug\Sum, Min, Max, Average.pdb

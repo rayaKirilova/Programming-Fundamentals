@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Sort Times\bin\Debug\Sort Times.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Sort Times\bin\Debug\Sort Times.exe
+C:\Users\Raya\source\repos\Dictionaries\Sort Times\bin\Debug\Sort Times.pdb
+C:\Users\Raya\source\repos\Dictionaries\Sort Times\obj\Debug\Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Sort Times\obj\Debug\Sort Times.exe
+C:\Users\Raya\source\repos\Dictionaries\Sort Times\obj\Debug\Sort Times.pdb
