@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Prime Checker\bin\Debug\Prime Checker.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Prime Checker\bin\Debug\Prime Checker.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Prime Checker\bin\Debug\Prime Checker.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Prime Checker\obj\Debug\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Prime Checker\obj\Debug\Prime Checker.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Prime Checker\obj\Debug\Prime Checker.pdb

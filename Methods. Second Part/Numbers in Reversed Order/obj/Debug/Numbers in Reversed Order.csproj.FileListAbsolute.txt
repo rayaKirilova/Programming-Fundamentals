@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Numbers in Reversed Order\bin\Debug\Numbers in Reversed Order.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Numbers in Reversed Order\obj\Debug\Numbers in Reversed Order.pdb

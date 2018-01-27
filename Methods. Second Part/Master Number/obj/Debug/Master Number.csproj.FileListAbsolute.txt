@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Master Number\bin\Debug\Master Number.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Master Number\bin\Debug\Master Number.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Master Number\bin\Debug\Master Number.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Master Number\obj\Debug\Master Number.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Master Number\obj\Debug\Master Number.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Master Number\obj\Debug\Master Number.pdb

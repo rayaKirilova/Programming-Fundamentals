@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Max Method\bin\Debug\Max Method.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Max Method\bin\Debug\Max Method.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Max Method\bin\Debug\Max Method.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Max Method\obj\Debug\Max Method.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Max Method\obj\Debug\Max Method.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Max Method\obj\Debug\Max Method.pdb

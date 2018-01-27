@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Instruction Set\bin\Debug\Instruction Set.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Instruction Set\bin\Debug\Instruction Set.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Instruction Set\bin\Debug\Instruction Set.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Instruction Set\obj\Debug\Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Instruction Set\obj\Debug\Instruction Set.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Instruction Set\obj\Debug\Instruction Set.pdb

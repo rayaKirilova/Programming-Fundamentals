@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Sequence of Commands\bin\Debug\Sequence of Commands.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Sequence of Commands\bin\Debug\Sequence of Commands.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Sequence of Commands\bin\Debug\Sequence of Commands.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Sequence of Commands\obj\Debug\Sequence of Commands.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Sequence of Commands\obj\Debug\Sequence of Commands.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Sequence of Commands\obj\Debug\Sequence of Commands.pdb
