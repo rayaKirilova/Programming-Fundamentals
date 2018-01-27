@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays Statistics\Safe Manipulation\bin\Debug\Safe Manipulation.exe.config
+C:\Users\Raya\source\repos\Arrays Statistics\Safe Manipulation\bin\Debug\Safe Manipulation.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Safe Manipulation\bin\Debug\Safe Manipulation.pdb
+C:\Users\Raya\source\repos\Arrays Statistics\Safe Manipulation\obj\Debug\Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Safe Manipulation\obj\Debug\Safe Manipulation.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Safe Manipulation\obj\Debug\Safe Manipulation.pdb
