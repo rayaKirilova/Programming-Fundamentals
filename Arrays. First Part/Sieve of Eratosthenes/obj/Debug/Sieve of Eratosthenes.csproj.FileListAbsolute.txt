@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Sieve of Eratosthenes\obj\Debug\Sieve of Eratosthenes.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Sum Arrays\bin\Debug\Sum Arrays.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Sum Arrays\bin\Debug\Sum Arrays.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Sum Arrays\bin\Debug\Sum Arrays.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Sum Arrays\obj\Debug\Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Sum Arrays\obj\Debug\Sum Arrays.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Sum Arrays\obj\Debug\Sum Arrays.pdb

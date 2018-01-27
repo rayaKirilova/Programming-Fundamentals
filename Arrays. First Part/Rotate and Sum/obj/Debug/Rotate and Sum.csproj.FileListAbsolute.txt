@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Rotate and Sum\obj\Debug\Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Rotate and Sum\obj\Debug\Rotate and Sum.pdb

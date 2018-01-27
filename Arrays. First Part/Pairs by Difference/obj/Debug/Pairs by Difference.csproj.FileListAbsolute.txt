@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Pairs by Difference\bin\Debug\Pairs by Difference.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Pairs by Difference\bin\Debug\Pairs by Difference.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Pairs by Difference\bin\Debug\Pairs by Difference.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Pairs by Difference\obj\Debug\Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Pairs by Difference\obj\Debug\Pairs by Difference.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Pairs by Difference\obj\Debug\Pairs by Difference.pdb
