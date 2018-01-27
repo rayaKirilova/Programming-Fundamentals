@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\bin\Debug\Cube Properties.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\bin\Debug\Cube Properties.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\bin\Debug\Cube Properties.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\obj\Debug\Cube Properties.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\obj\Debug\Cube Properties.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\obj\Debug\Cube Properties.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Cube Properties\obj\Debug\Cube Properties.csprojResolveAssemblyReference.cache

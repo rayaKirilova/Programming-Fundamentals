@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\English Name оf the Last Digit\obj\Debug\English Name оf the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\English Name оf the Last Digit\bin\Debug\English Name оf the Last Digit.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\English Name оf the Last Digit\bin\Debug\English Name оf the Last Digit.exe
+C:\Users\Raya\source\repos\Methods. Second Part\English Name оf the Last Digit\bin\Debug\English Name оf the Last Digit.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\English Name оf the Last Digit\obj\Debug\English Name оf the Last Digit.exe
+C:\Users\Raya\source\repos\Methods. Second Part\English Name оf the Last Digit\obj\Debug\English Name оf the Last Digit.pdb

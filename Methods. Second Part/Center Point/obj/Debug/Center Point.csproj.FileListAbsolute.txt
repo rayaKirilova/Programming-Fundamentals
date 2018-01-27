@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Center Point\bin\Debug\Center Point.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Center Point\bin\Debug\Center Point.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Center Point\bin\Debug\Center Point.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Center Point\obj\Debug\Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Center Point\obj\Debug\Center Point.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Center Point\obj\Debug\Center Point.pdb

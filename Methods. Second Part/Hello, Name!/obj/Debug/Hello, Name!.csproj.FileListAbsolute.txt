@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Hello, Name!\obj\Debug\Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Hello, Name!\bin\Debug\Hello, Name!.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Hello, Name!\bin\Debug\Hello, Name!.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Hello, Name!\bin\Debug\Hello, Name!.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Hello, Name!\obj\Debug\Hello, Name!.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Hello, Name!\obj\Debug\Hello, Name!.pdb

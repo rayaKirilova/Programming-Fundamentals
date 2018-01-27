@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Fibonacci Numbers\bin\Debug\Fibonacci Numbers.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Fibonacci Numbers\obj\Debug\Fibonacci Numbers.pdb

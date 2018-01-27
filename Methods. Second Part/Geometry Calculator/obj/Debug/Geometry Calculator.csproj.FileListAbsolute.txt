@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Geometry Calculator\bin\Debug\Geometry Calculator.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Geometry Calculator\bin\Debug\Geometry Calculator.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Geometry Calculator\bin\Debug\Geometry Calculator.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Geometry Calculator\obj\Debug\Geometry Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Geometry Calculator\obj\Debug\Geometry Calculator.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Geometry Calculator\obj\Debug\Geometry Calculator.pdb

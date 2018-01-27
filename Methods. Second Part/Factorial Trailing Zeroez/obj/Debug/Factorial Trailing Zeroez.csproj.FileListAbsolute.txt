@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Methods. Second Part\Factorial Trailing Zeroez\bin\Debug\Factorial Trailing Zeroez.exe.config
+C:\Users\Raya\source\repos\Methods. Second Part\Factorial Trailing Zeroez\bin\Debug\Factorial Trailing Zeroez.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Factorial Trailing Zeroez\bin\Debug\Factorial Trailing Zeroez.pdb
+C:\Users\Raya\source\repos\Methods. Second Part\Factorial Trailing Zeroez\obj\Debug\Factorial Trailing Zeroez.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Methods. Second Part\Factorial Trailing Zeroez\obj\Debug\Factorial Trailing Zeroez.exe
+C:\Users\Raya\source\repos\Methods. Second Part\Factorial Trailing Zeroez\obj\Debug\Factorial Trailing Zeroez.pdb
