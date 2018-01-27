@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Odd Filter\bin\Debug\Odd Filter.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Odd Filter\bin\Debug\Odd Filter.exe
+C:\Users\Raya\source\repos\Dictionaries\Odd Filter\bin\Debug\Odd Filter.pdb
+C:\Users\Raya\source\repos\Dictionaries\Odd Filter\obj\Debug\Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Odd Filter\obj\Debug\Odd Filter.exe
+C:\Users\Raya\source\repos\Dictionaries\Odd Filter\obj\Debug\Odd Filter.pdb

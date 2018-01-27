@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Raya\source\repos\Dictionaries\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Raya\source\repos\Dictionaries\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Raya\source\repos\Dictionaries\Phonebook\obj\Debug\Phonebook.pdb

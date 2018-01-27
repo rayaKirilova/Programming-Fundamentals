@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe
+C:\Users\Raya\source\repos\Dictionaries\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.pdb
+C:\Users\Raya\source\repos\Dictionaries\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.exe
+C:\Users\Raya\source\repos\Dictionaries\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.pdb

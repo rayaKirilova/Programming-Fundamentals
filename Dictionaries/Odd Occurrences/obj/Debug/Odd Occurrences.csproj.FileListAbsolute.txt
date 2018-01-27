@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Odd Occurrences\bin\Debug\Odd Occurrences.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Odd Occurrences\bin\Debug\Odd Occurrences.exe
+C:\Users\Raya\source\repos\Dictionaries\Odd Occurrences\bin\Debug\Odd Occurrences.pdb
+C:\Users\Raya\source\repos\Dictionaries\Odd Occurrences\obj\Debug\Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Odd Occurrences\obj\Debug\Odd Occurrences.exe
+C:\Users\Raya\source\repos\Dictionaries\Odd Occurrences\obj\Debug\Odd Occurrences.pdb
