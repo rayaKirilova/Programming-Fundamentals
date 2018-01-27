@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays Statistics\Grab and Go\bin\Debug\Grab and Go.exe.config
+C:\Users\Raya\source\repos\Arrays Statistics\Grab and Go\bin\Debug\Grab and Go.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Grab and Go\bin\Debug\Grab and Go.pdb
+C:\Users\Raya\source\repos\Arrays Statistics\Grab and Go\obj\Debug\Grab and Go.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Grab and Go\obj\Debug\Grab and Go.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Grab and Go\obj\Debug\Grab and Go.pdb

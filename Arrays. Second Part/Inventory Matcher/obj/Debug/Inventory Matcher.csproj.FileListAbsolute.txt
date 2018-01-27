@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays Statistics\Inventory Matcher\bin\Debug\Inventory Matcher.exe.config
+C:\Users\Raya\source\repos\Arrays Statistics\Inventory Matcher\bin\Debug\Inventory Matcher.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Inventory Matcher\bin\Debug\Inventory Matcher.pdb
+C:\Users\Raya\source\repos\Arrays Statistics\Inventory Matcher\obj\Debug\Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Inventory Matcher\obj\Debug\Inventory Matcher.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Inventory Matcher\obj\Debug\Inventory Matcher.pdb

@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\bin\Debug\Heists.exe.config
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\bin\Debug\Heists.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\bin\Debug\Heists.pdb
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\obj\Debug\Heists.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\obj\Debug\Heists.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\obj\Debug\Heists.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Heists\obj\Debug\Heists.pdb

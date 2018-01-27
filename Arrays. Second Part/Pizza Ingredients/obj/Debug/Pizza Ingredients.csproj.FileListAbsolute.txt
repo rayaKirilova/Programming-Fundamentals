@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays Statistics\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe.config
+C:\Users\Raya\source\repos\Arrays Statistics\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Pizza Ingredients\bin\Debug\Pizza Ingredients.pdb
+C:\Users\Raya\source\repos\Arrays Statistics\Pizza Ingredients\obj\Debug\Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Pizza Ingredients\obj\Debug\Pizza Ingredients.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Pizza Ingredients\obj\Debug\Pizza Ingredients.pdb

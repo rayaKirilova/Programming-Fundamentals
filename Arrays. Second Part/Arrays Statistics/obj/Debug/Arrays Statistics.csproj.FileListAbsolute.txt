@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays Statistics\Arrays Statistics\bin\Debug\Arrays Statistics.exe.config
+C:\Users\Raya\source\repos\Arrays Statistics\Arrays Statistics\bin\Debug\Arrays Statistics.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Arrays Statistics\bin\Debug\Arrays Statistics.pdb
+C:\Users\Raya\source\repos\Arrays Statistics\Arrays Statistics\obj\Debug\Arrays Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays Statistics\Arrays Statistics\obj\Debug\Arrays Statistics.exe
+C:\Users\Raya\source\repos\Arrays Statistics\Arrays Statistics\obj\Debug\Arrays Statistics.pdb
