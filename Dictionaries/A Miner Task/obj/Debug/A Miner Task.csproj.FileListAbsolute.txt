@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\Raya\source\repos\Dictionaries\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\Raya\source\repos\Dictionaries\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\Raya\source\repos\Dictionaries\A Miner Task\obj\Debug\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\Raya\source\repos\Dictionaries\A Miner Task\obj\Debug\A Miner Task.pdb

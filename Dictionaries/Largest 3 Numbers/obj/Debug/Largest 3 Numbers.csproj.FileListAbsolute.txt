@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Dictionaries\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe
+C:\Users\Raya\source\repos\Dictionaries\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.pdb
+C:\Users\Raya\source\repos\Dictionaries\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.exe
+C:\Users\Raya\source\repos\Dictionaries\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.pdb

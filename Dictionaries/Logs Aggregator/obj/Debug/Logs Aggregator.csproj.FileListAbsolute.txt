@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.exe.config
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.exe
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\bin\Debug\Logs Aggregator.pdb
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.exe
+C:\Users\Raya\source\repos\Dictionaries\Logs Aggregator\obj\Debug\Logs Aggregator.pdb
