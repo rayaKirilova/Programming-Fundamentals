@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Sort Numbers\bin\Debug\Sort Numbers.exe.config
+C:\Users\Raya\source\repos\Lists\Sort Numbers\bin\Debug\Sort Numbers.exe
+C:\Users\Raya\source\repos\Lists\Sort Numbers\bin\Debug\Sort Numbers.pdb
+C:\Users\Raya\source\repos\Lists\Sort Numbers\obj\Debug\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Sort Numbers\obj\Debug\Sort Numbers.exe
+C:\Users\Raya\source\repos\Lists\Sort Numbers\obj\Debug\Sort Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Search for a Number\bin\Debug\Search for a Number.exe.config
+C:\Users\Raya\source\repos\Lists\Search for a Number\bin\Debug\Search for a Number.exe
+C:\Users\Raya\source\repos\Lists\Search for a Number\bin\Debug\Search for a Number.pdb
+C:\Users\Raya\source\repos\Lists\Search for a Number\obj\Debug\Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Search for a Number\obj\Debug\Search for a Number.exe
+C:\Users\Raya\source\repos\Lists\Search for a Number\obj\Debug\Search for a Number.pdb

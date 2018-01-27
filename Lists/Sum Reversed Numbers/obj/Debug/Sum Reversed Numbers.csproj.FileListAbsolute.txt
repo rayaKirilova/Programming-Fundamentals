@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+C:\Users\Raya\source\repos\Lists\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+C:\Users\Raya\source\repos\Lists\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+C:\Users\Raya\source\repos\Lists\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+C:\Users\Raya\source\repos\Lists\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb

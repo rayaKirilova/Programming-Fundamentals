@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Lists\Square Numbers\obj\Debug\Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Lists\Square Numbers\bin\Debug\Square Numbers.exe.config
+C:\Users\Raya\source\repos\Lists\Square Numbers\bin\Debug\Square Numbers.exe
+C:\Users\Raya\source\repos\Lists\Square Numbers\bin\Debug\Square Numbers.pdb
+C:\Users\Raya\source\repos\Lists\Square Numbers\obj\Debug\Square Numbers.exe
+C:\Users\Raya\source\repos\Lists\Square Numbers\obj\Debug\Square Numbers.pdb
