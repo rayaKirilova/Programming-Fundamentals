@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Max Sequence of Equal Elements\bin\Debug\Max Sequence of Equal Elements.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Max Sequence of Equal Elements\obj\Debug\Max Sequence of Equal Elements.pdb

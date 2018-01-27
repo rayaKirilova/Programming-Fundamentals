@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Equal Sums\bin\Debug\Equal Sums.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Equal Sums\bin\Debug\Equal Sums.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Equal Sums\bin\Debug\Equal Sums.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Equal Sums\obj\Debug\Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Equal Sums\obj\Debug\Equal Sums.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Equal Sums\obj\Debug\Equal Sums.pdb

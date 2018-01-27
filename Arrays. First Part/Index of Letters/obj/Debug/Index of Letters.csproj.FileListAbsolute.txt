@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Arrays. First Part\Index of Letters\bin\Debug\Index of Letters.exe.config
+C:\Users\Raya\source\repos\Arrays. First Part\Index of Letters\bin\Debug\Index of Letters.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Index of Letters\bin\Debug\Index of Letters.pdb
+C:\Users\Raya\source\repos\Arrays. First Part\Index of Letters\obj\Debug\Index of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Arrays. First Part\Index of Letters\obj\Debug\Index of Letters.exe
+C:\Users\Raya\source\repos\Arrays. First Part\Index of Letters\obj\Debug\Index of Letters.pdb
