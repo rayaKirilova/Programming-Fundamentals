@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Objects and Classes\Average Grades\bin\Debug\Average Grades.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Average Grades\bin\Debug\Average Grades.exe
+C:\Users\Raya\source\repos\Objects and Classes\Average Grades\bin\Debug\Average Grades.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Average Grades\obj\Debug\Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Average Grades\obj\Debug\Average Grades.exe
+C:\Users\Raya\source\repos\Objects and Classes\Average Grades\obj\Debug\Average Grades.pdb

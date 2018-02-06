@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Objects and Classes\Book Library Modification\bin\Debug\Book Library Modification.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Book Library Modification\bin\Debug\Book Library Modification.exe
+C:\Users\Raya\source\repos\Objects and Classes\Book Library Modification\bin\Debug\Book Library Modification.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Book Library Modification\obj\Debug\Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Book Library Modification\obj\Debug\Book Library Modification.exe
+C:\Users\Raya\source\repos\Objects and Classes\Book Library Modification\obj\Debug\Book Library Modification.pdb

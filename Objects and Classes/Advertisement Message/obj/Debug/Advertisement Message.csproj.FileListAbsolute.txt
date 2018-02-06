@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\bin\Debug\Advertisement Message.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\bin\Debug\Advertisement Message.exe
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\bin\Debug\Advertisement Message.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.exe
+C:\Users\Raya\source\repos\Objects and Classes\Advertisement Message\obj\Debug\Advertisement Message.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Objects and Classes\Andrey and Billiard\bin\Debug\Andrey and Billiard.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Andrey and Billiard\bin\Debug\Andrey and Billiard.exe
+C:\Users\Raya\source\repos\Objects and Classes\Andrey and Billiard\bin\Debug\Andrey and Billiard.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Andrey and Billiard\obj\Debug\Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Andrey and Billiard\obj\Debug\Andrey and Billiard.exe
+C:\Users\Raya\source\repos\Objects and Classes\Andrey and Billiard\obj\Debug\Andrey and Billiard.pdb
