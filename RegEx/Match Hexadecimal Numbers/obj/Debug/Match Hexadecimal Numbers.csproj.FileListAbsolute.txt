@@ -1,0 +1,7 @@
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\bin\Debug\Match Hexadecimal Numbers.exe.config
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\bin\Debug\Match Hexadecimal Numbers.exe
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\bin\Debug\Match Hexadecimal Numbers.pdb
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\obj\Debug\Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\obj\Debug\Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\obj\Debug\Match Hexadecimal Numbers.exe
+c:\users\raya\source\repos\RegEx\Match Hexadecimal Numbers\obj\Debug\Match Hexadecimal Numbers.pdb

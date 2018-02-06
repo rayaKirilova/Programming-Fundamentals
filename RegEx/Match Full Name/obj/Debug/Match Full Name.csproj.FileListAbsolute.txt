@@ -1,0 +1,7 @@
+c:\users\raya\source\repos\RegEx\Match Full Name\bin\Debug\Match Full Name.exe.config
+c:\users\raya\source\repos\RegEx\Match Full Name\bin\Debug\Match Full Name.exe
+c:\users\raya\source\repos\RegEx\Match Full Name\bin\Debug\Match Full Name.pdb
+c:\users\raya\source\repos\RegEx\Match Full Name\obj\Debug\Match Full Name.csprojResolveAssemblyReference.cache
+c:\users\raya\source\repos\RegEx\Match Full Name\obj\Debug\Match Full Name.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\RegEx\Match Full Name\obj\Debug\Match Full Name.exe
+c:\users\raya\source\repos\RegEx\Match Full Name\obj\Debug\Match Full Name.pdb
