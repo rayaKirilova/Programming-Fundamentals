@@ -1,0 +1,7 @@
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\obj\Debug\Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\obj\Debug\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\Raya\source\repos\Objects and Classes\Day of Week\obj\Debug\Day of Week.pdb

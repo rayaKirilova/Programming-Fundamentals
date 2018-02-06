@@ -1,0 +1,1 @@
+C:\Users\Raya\source\repos\Objects and Classes\Count Working Days\obj\Debug\Count Working Days.csproj.CoreCompileInputs.cache

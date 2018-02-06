@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Objects and Classes\Distance Between Points\bin\Debug\Distance Between Points.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Distance Between Points\bin\Debug\Distance Between Points.exe
+C:\Users\Raya\source\repos\Objects and Classes\Distance Between Points\bin\Debug\Distance Between Points.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Distance Between Points\obj\Debug\Distance Between Points.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Distance Between Points\obj\Debug\Distance Between Points.exe
+C:\Users\Raya\source\repos\Objects and Classes\Distance Between Points\obj\Debug\Distance Between Points.pdb

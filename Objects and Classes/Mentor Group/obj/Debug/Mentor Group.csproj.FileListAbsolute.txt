@@ -1,0 +1,6 @@
+C:\Users\Raya\source\repos\Objects and Classes\Mentor Group\bin\Debug\Mentor Group.exe.config
+C:\Users\Raya\source\repos\Objects and Classes\Mentor Group\bin\Debug\Mentor Group.exe
+C:\Users\Raya\source\repos\Objects and Classes\Mentor Group\bin\Debug\Mentor Group.pdb
+C:\Users\Raya\source\repos\Objects and Classes\Mentor Group\obj\Debug\Mentor Group.csproj.CoreCompileInputs.cache
+C:\Users\Raya\source\repos\Objects and Classes\Mentor Group\obj\Debug\Mentor Group.exe
+C:\Users\Raya\source\repos\Objects and Classes\Mentor Group\obj\Debug\Mentor Group.pdb
