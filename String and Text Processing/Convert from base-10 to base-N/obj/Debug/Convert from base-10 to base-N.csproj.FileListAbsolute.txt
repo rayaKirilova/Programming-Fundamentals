@@ -1,0 +1,7 @@
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\bin\Debug\Convert from base-10 to base-N.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\bin\Debug\Convert from base-10 to base-N.exe
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\bin\Debug\Convert from base-10 to base-N.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.exe
+c:\users\raya\source\repos\Strings and Text Processing\Convert from base-10 to base-N\obj\Debug\Convert from base-10 to base-N.pdb

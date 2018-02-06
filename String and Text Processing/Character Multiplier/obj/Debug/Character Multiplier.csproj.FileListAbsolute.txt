@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\Character Multiplier.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\Character Multiplier.exe
+c:\users\raya\source\repos\Strings and Text Processing\Character Multiplier\bin\Debug\Character Multiplier.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\Character Multiplier.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\Character Multiplier.exe
+c:\users\raya\source\repos\Strings and Text Processing\Character Multiplier\obj\Debug\Character Multiplier.pdb

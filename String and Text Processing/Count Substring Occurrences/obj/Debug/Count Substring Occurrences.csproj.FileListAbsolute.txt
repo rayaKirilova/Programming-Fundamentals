@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.exe
+c:\users\raya\source\repos\Strings and Text Processing\Count Substring Occurrences\bin\Debug\Count Substring Occurrences.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.exe
+c:\users\raya\source\repos\Strings and Text Processing\Count Substring Occurrences\obj\Debug\Count Substring Occurrences.pdb

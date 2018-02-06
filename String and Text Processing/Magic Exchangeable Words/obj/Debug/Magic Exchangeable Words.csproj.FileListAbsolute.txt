@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Magic Exchangeable Words\bin\Debug\Magic Exchangeable Words.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Magic Exchangeable Words\bin\Debug\Magic Exchangeable Words.exe
+c:\users\raya\source\repos\Strings and Text Processing\Magic Exchangeable Words\bin\Debug\Magic Exchangeable Words.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Magic Exchangeable Words\obj\Debug\Magic Exchangeable Words.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Magic Exchangeable Words\obj\Debug\Magic Exchangeable Words.exe
+c:\users\raya\source\repos\Strings and Text Processing\Magic Exchangeable Words\obj\Debug\Magic Exchangeable Words.pdb
