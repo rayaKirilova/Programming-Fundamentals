@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Text filter\bin\Debug\Text filter.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Text filter\bin\Debug\Text filter.exe
+c:\users\raya\source\repos\Strings and Text Processing\Text filter\bin\Debug\Text filter.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Text filter\obj\Debug\Text filter.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Text filter\obj\Debug\Text filter.exe
+c:\users\raya\source\repos\Strings and Text Processing\Text filter\obj\Debug\Text filter.pdb

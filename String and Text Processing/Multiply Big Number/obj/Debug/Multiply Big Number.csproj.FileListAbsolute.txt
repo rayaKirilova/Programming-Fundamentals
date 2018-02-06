@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\Multiply Big Number.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\Multiply Big Number.exe
+c:\users\raya\source\repos\Strings and Text Processing\Multiply Big Number\bin\Debug\Multiply Big Number.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\Multiply Big Number.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\Multiply Big Number.exe
+c:\users\raya\source\repos\Strings and Text Processing\Multiply Big Number\obj\Debug\Multiply Big Number.pdb

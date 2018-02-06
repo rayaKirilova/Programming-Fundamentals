@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Sum big numbers\bin\Debug\Sum big numbers.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Sum big numbers\bin\Debug\Sum big numbers.exe
+c:\users\raya\source\repos\Strings and Text Processing\Sum big numbers\bin\Debug\Sum big numbers.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Sum big numbers\obj\Debug\Sum big numbers.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Sum big numbers\obj\Debug\Sum big numbers.exe
+c:\users\raya\source\repos\Strings and Text Processing\Sum big numbers\obj\Debug\Sum big numbers.pdb

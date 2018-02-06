@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Melrah Shake\bin\Debug\Melrah Shake.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Melrah Shake\bin\Debug\Melrah Shake.exe
+c:\users\raya\source\repos\Strings and Text Processing\Melrah Shake\bin\Debug\Melrah Shake.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Melrah Shake\obj\Debug\Melrah Shake.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Melrah Shake\obj\Debug\Melrah Shake.exe
+c:\users\raya\source\repos\Strings and Text Processing\Melrah Shake\obj\Debug\Melrah Shake.pdb

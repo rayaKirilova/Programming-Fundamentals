@@ -1,0 +1,6 @@
+c:\users\raya\source\repos\Strings and Text Processing\Reverse String\bin\Debug\Reverse String.exe.config
+c:\users\raya\source\repos\Strings and Text Processing\Reverse String\bin\Debug\Reverse String.exe
+c:\users\raya\source\repos\Strings and Text Processing\Reverse String\bin\Debug\Reverse String.pdb
+c:\users\raya\source\repos\Strings and Text Processing\Reverse String\obj\Debug\Reverse String.csproj.CoreCompileInputs.cache
+c:\users\raya\source\repos\Strings and Text Processing\Reverse String\obj\Debug\Reverse String.exe
+c:\users\raya\source\repos\Strings and Text Processing\Reverse String\obj\Debug\Reverse String.pdb
